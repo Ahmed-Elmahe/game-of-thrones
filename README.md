@@ -4,6 +4,6 @@
 This is just test for api
 
 ## Get start
-```bash
+bash```
 git clone https://github.com/Ahmed-Elmahe/game-of-thrones.git
 ```
